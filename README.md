@@ -70,3 +70,8 @@ A blogpost providing further detail into the process of analysis can be found [h
 
 - Mentor Feedback
     - https://knowledge.udacity.com/questions/845663
+ 
+- Course Content
+    - Udacity 'Finding Donors for Charity ML' project
+    - Udacity 'Creating Customer Segments with Arvato' project
+- 
