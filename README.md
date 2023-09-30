@@ -50,11 +50,11 @@ A blogpost providing further detail into the process of analysis can be found [h
 
 ## Libraries Used
 
-pandas==0.23.3
-numpy==1.19.5
-matplotlib==3.3.4
-scikit-learn==0.19.1
-seaborn==0.8.1
+- pandas==0.23.3
+- numpy==1.19.5
+- matplotlib==3.3.4
+- scikit-learn==0.19.1
+- seaborn==0.8.1
 
 ## Acknowledgments
 
