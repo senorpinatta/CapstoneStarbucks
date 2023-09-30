@@ -74,4 +74,3 @@ A blogpost providing further detail into the process of analysis can be found [h
 - Course Content
     - Udacity 'Finding Donors for Charity ML' project
     - Udacity 'Creating Customer Segments with Arvato' project
-- 
